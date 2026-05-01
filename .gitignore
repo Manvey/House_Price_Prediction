@@ -1,0 +1,18 @@
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Sensitive info
+.env
+
+# Large model files (if you want to keep the repo light)
+*.pkl
+
+
+.ipynb_checkpoints/
+Untitled.ipynb
+Untitled1.ipynb
