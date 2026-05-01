@@ -9,8 +9,7 @@ env/
 # Sensitive info
 .env
 
-# Large model files (if you want to keep the repo light)
-*.pkl
+
 
 
 .ipynb_checkpoints/
